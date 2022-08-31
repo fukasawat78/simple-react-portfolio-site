@@ -9,7 +9,6 @@ import styled from "styled-components";
 import { AnimatePresence } from "framer-motion";
 
 const Pages = styled.div`
-
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -34,7 +33,7 @@ function App() {
           <Switch location={location} key={location.pathname}>
             <Route exact path="/" component={Home} />
             <Route path="/team" component={Team} />
-            <Route path="calender" component={Calender} />
+            <Route path="/calender" component={Calender} />
             <Route path="/documents" component={Documents} />
             <Route path="/projects" components={Projects} />
           </Switch>
