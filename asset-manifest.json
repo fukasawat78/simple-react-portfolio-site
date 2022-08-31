@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-react-pages-example/static/css/main.e6c13ad2.css",
+    "main.css": "/simple-react-pages-example/static/css/main.f129e3d3.css",
     "main.js": "/simple-react-pages-example/static/js/main.145ab648.js",
     "static/media/logo.svg": "/simple-react-pages-example/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
     "static/media/sceduled.svg": "/simple-react-pages-example/static/media/sceduled.581f6358c6805f3526b541631cd43f8b.svg",
@@ -10,11 +10,11 @@
     "static/media/power-off-solid.svg": "/simple-react-pages-example/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
     "static/media/draft.svg": "/simple-react-pages-example/static/media/draft.cbc488ec750666825d8a9b5e319bdead.svg",
     "static/media/starred.svg": "/simple-react-pages-example/static/media/starred.3f5eb997d90860946b7a4f3e38088eb4.svg",
-    "main.e6c13ad2.css.map": "/simple-react-pages-example/static/css/main.e6c13ad2.css.map",
+    "main.f129e3d3.css.map": "/simple-react-pages-example/static/css/main.f129e3d3.css.map",
     "main.145ab648.js.map": "/simple-react-pages-example/static/js/main.145ab648.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.f129e3d3.css",
     "static/js/main.145ab648.js"
   ]
 }
