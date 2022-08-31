@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## URL
+https://fukasawat78.github.io/simple-react-pages-example
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
