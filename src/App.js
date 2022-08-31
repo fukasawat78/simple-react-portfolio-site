@@ -14,8 +14,7 @@ const Pages = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-
-  h1 { 
+  h1 {
     font-size: calc(2rem + 2vw);
     background: linear-gradient(to right, #803bec 30%, #1b1b1b 100%);
     -webkit-background-clip: text;
@@ -35,7 +34,7 @@ function App() {
             <Route path="/team" component={Team} />
             <Route path="/calender" component={Calender} />
             <Route path="/documents" component={Documents} />
-            <Route path="/projects" components={Projects} />
+            <Route path="/projects" component={Projects} />
           </Switch>
         </AnimatePresence>
       </Pages>
