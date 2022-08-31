@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 
 //All the svg files
-import logo from "../assets/logo.svg";
-import Home from "../assets/home-solid.svg";
-import Team from "../assets/social.svg";
-import Calender from "../assets/sceduled.svg";
-import Projects from "../assets/starred.svg";
-import Documents from "../assets/draft.svg";
-import PowerOff from "../assets/power-off-solid.svg";
+import logo from "../../assets/logo.svg";
+import Home from "../../assets/home-solid.svg";
+import Team from "../../assets/social.svg";
+import Calender from "../../assets/sceduled.svg";
+import Projects from "../../assets/starred.svg";
+import Documents from "../../assets/draft.svg";
+import PowerOff from "../../assets/power-off-solid.svg";
 import styled from "styled-components";
 import { NavLink } from "react-router-dom";
 

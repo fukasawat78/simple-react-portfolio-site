@@ -1,10 +1,10 @@
 import { Route, Switch, useLocation } from "react-router";
-import Sidebar from "./Sidebar";
-import Home from "./Pages/Home";
-import Team from "./Pages/Team";
-import Calender from "./Pages/Calender";
-import Documents from "./Pages/Documents";
-import Projects from "./Pages/Projects";
+import Sidebar from "./components/sidebar";
+import Home from "./pages/Home";
+import Team from "./pages/Team";
+import Calender from "./pages/Calender";
+import Documents from "./pages/Documents";
+import Projects from "./pages/Projects";
 import styled from "styled-components";
 import { AnimatePresence } from "framer-motion";
 
