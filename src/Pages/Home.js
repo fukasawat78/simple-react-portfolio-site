@@ -6,7 +6,7 @@ const HomeComponent = () => {
         <div style={{ backgroundImage: `url(${background})` }}>
             <h1>Home</h1>;
         </div>
-    )
+    );
 };
 
 const Home = MotionHoc(HomeComponent);
