@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/simple-react-pages-example/static/css/main.f129e3d3.css",
-    "main.js": "/simple-react-pages-example/static/js/main.4af789d5.js",
-    "static/media/logo.svg": "/simple-react-pages-example/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
-    "static/media/sceduled.svg": "/simple-react-pages-example/static/media/sceduled.581f6358c6805f3526b541631cd43f8b.svg",
-    "static/media/social.svg": "/simple-react-pages-example/static/media/social.90efc33f513f2c9b785ce4412cbc917e.svg",
-    "index.html": "/simple-react-pages-example/index.html",
-    "static/media/home-solid.svg": "/simple-react-pages-example/static/media/home-solid.831db11df61127740a8d5f67fb8952cb.svg",
-    "static/media/power-off-solid.svg": "/simple-react-pages-example/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
-    "static/media/draft.svg": "/simple-react-pages-example/static/media/draft.cbc488ec750666825d8a9b5e319bdead.svg",
-    "static/media/starred.svg": "/simple-react-pages-example/static/media/starred.3f5eb997d90860946b7a4f3e38088eb4.svg",
-    "main.f129e3d3.css.map": "/simple-react-pages-example/static/css/main.f129e3d3.css.map",
-    "main.4af789d5.js.map": "/simple-react-pages-example/static/js/main.4af789d5.js.map"
+    "main.css": "/simple-homepage-example/static/css/main.f129e3d3.css",
+    "main.js": "/simple-homepage-example/static/js/main.aa9e8c6b.js",
+    "static/media/home.jpg": "/simple-homepage-example/static/media/home.e82ac4f95a8b491d9074.jpg",
+    "static/media/logo.svg": "/simple-homepage-example/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
+    "static/media/sceduled.svg": "/simple-homepage-example/static/media/sceduled.581f6358c6805f3526b541631cd43f8b.svg",
+    "static/media/social.svg": "/simple-homepage-example/static/media/social.90efc33f513f2c9b785ce4412cbc917e.svg",
+    "index.html": "/simple-homepage-example/index.html",
+    "static/media/home-solid.svg": "/simple-homepage-example/static/media/home-solid.831db11df61127740a8d5f67fb8952cb.svg",
+    "static/media/power-off-solid.svg": "/simple-homepage-example/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
+    "static/media/draft.svg": "/simple-homepage-example/static/media/draft.cbc488ec750666825d8a9b5e319bdead.svg",
+    "static/media/starred.svg": "/simple-homepage-example/static/media/starred.3f5eb997d90860946b7a4f3e38088eb4.svg",
+    "main.f129e3d3.css.map": "/simple-homepage-example/static/css/main.f129e3d3.css.map",
+    "main.aa9e8c6b.js.map": "/simple-homepage-example/static/js/main.aa9e8c6b.js.map"
   },
   "entrypoints": [
     "static/css/main.f129e3d3.css",
-    "static/js/main.4af789d5.js"
+    "static/js/main.aa9e8c6b.js"
   ]
 }
