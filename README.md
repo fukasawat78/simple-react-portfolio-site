@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## URL
-https://fukasawat78.github.io/simple-react-pages-example
+https://fukasawat78.github.io/simple-homepage-example
 
 ## Available Scripts
 
