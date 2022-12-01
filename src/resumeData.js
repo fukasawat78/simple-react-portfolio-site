@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://fukasawat78.github.io/",
     "name": "fukasawat",
     "role": "Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I am a ironman.",
     "socialLinks":[
