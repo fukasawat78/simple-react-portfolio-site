@@ -3,9 +3,9 @@ import React, { useState } from "react";
 //All the svg files
 import logo from "../../assets/logo.svg";
 import Home from "../../assets/home-solid.svg";
-import Team from "../../assets/social.svg";
-import Calender from "../../assets/sceduled.svg";
-import Projects from "../../assets/starred.svg";
+import Portfolio from "../../assets/social.svg";
+import About from "../../assets/sceduled.svg";
+import ContactUs from "../../assets/starred.svg";
 import Documents from "../../assets/draft.svg";
 import PowerOff from "../../assets/power-off-solid.svg";
 import styled from "styled-components";
@@ -219,18 +219,26 @@ const Sidebar = () => {
           <Item
             onClick={() => setClick(false)}
             activeClassName="active"
-            to="/team"
+            to="/portfolio"
           >
-            <img src={Team} alt="Team" />
-            <Text clicked={click}>Team</Text>
+            <img src={Portfolio} alt="Portfolio" />
+            <Text clicked={click}>Portfolio</Text>
           </Item>
           <Item
             onClick={() => setClick(false)}
             activeClassName="active"
-            to="/calender"
+            to="/about"
           >
-            <img src={Calender} alt="Calender" />
-            <Text clicked={click}>Calender</Text>
+            <img src={About} alt="About" />
+            <Text clicked={click}>About</Text>
+          </Item>
+          <Item
+            onClick={() => setClick(false)}
+            activeClassName="active"
+            to="/contact"
+          >
+            <img src={ContactUs} alt="ContactUs" />
+            <Text clicked={click}>ContactUs</Text>
           </Item>
           <Item
             onClick={() => setClick(false)}
@@ -239,14 +247,6 @@ const Sidebar = () => {
           >
             <img src={Documents} alt="Documents" />
             <Text clicked={click}>Documents</Text>
-          </Item>
-          <Item
-            onClick={() => setClick(false)}
-            activeClassName="active"
-            to="/projects"
-          >
-            <img src={Projects} alt="Projects" />
-            <Text clicked={click}>Projects</Text>
           </Item>
         </SlickBar>
 
