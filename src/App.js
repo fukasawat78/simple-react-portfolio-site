@@ -27,10 +27,6 @@ const Pages = styled.div`
     font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
     font-size: 20px;
   }
-  h3 {
-    font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
-    font-size: 20px;
-  }
 `;
 
 function App() {
