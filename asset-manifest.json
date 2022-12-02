@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/simple-homepage-example/static/css/main.f129e3d3.css",
-    "main.js": "/simple-homepage-example/static/js/main.a2681464.js",
-    "static/media/logo.svg": "/simple-homepage-example/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
-    "static/media/sceduled.svg": "/simple-homepage-example/static/media/sceduled.581f6358c6805f3526b541631cd43f8b.svg",
-    "static/media/social.svg": "/simple-homepage-example/static/media/social.90efc33f513f2c9b785ce4412cbc917e.svg",
-    "index.html": "/simple-homepage-example/index.html",
-    "static/media/home-solid.svg": "/simple-homepage-example/static/media/home-solid.831db11df61127740a8d5f67fb8952cb.svg",
-    "static/media/power-off-solid.svg": "/simple-homepage-example/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
-    "static/media/draft.svg": "/simple-homepage-example/static/media/draft.cbc488ec750666825d8a9b5e319bdead.svg",
-    "static/media/starred.svg": "/simple-homepage-example/static/media/starred.3f5eb997d90860946b7a4f3e38088eb4.svg",
-    "main.f129e3d3.css.map": "/simple-homepage-example/static/css/main.f129e3d3.css.map",
-    "main.a2681464.js.map": "/simple-homepage-example/static/js/main.a2681464.js.map"
+    "main.css": "/simple-portfolio-site/static/css/main.f129e3d3.css",
+    "main.js": "/simple-portfolio-site/static/js/main.7860e2d2.js",
+    "static/media/logo.svg": "/simple-portfolio-site/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
+    "static/media/sceduled.svg": "/simple-portfolio-site/static/media/sceduled.581f6358c6805f3526b541631cd43f8b.svg",
+    "static/media/social.svg": "/simple-portfolio-site/static/media/social.90efc33f513f2c9b785ce4412cbc917e.svg",
+    "index.html": "/simple-portfolio-site/index.html",
+    "static/media/home-solid.svg": "/simple-portfolio-site/static/media/home-solid.831db11df61127740a8d5f67fb8952cb.svg",
+    "static/media/power-off-solid.svg": "/simple-portfolio-site/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
+    "static/media/starred.svg": "/simple-portfolio-site/static/media/starred.3f5eb997d90860946b7a4f3e38088eb4.svg",
+    "main.f129e3d3.css.map": "/simple-portfolio-site/static/css/main.f129e3d3.css.map",
+    "main.7860e2d2.js.map": "/simple-portfolio-site/static/js/main.7860e2d2.js.map"
   },
   "entrypoints": [
     "static/css/main.f129e3d3.css",
-    "static/js/main.a2681464.js"
+    "static/js/main.7860e2d2.js"
   ]
 }
