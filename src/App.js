@@ -3,7 +3,6 @@ import Sidebar from "./components/Sidebar";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import About from "./pages/About";
-import Documents from "./pages/Documents";
 import ContactUs from "./pages/ContactUs";
 import styled from "styled-components";
 import { AnimatePresence } from "framer-motion";
