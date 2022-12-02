@@ -2,7 +2,7 @@
   "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fukasawat78.github.io/simple-homepage-example",
+  "homepage": "https://fukasawat78.github.io/simple-portfolio-site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",

@@ -6,7 +6,6 @@ import Home from "../../assets/home-solid.svg";
 import Portfolio from "../../assets/social.svg";
 import About from "../../assets/sceduled.svg";
 import ContactUs from "../../assets/starred.svg";
-import Documents from "../../assets/draft.svg";
 import PowerOff from "../../assets/power-off-solid.svg";
 import styled from "styled-components";
 import { NavLink } from "react-router-dom";
@@ -239,14 +238,6 @@ const Sidebar = () => {
           >
             <img src={ContactUs} alt="ContactUs" />
             <Text clicked={click}>ContactUs</Text>
-          </Item>
-          <Item
-            onClick={() => setClick(false)}
-            activeClassName="active"
-            to="/documents"
-          >
-            <img src={Documents} alt="Documents" />
-            <Text clicked={click}>Documents</Text>
           </Item>
         </SlickBar>
 

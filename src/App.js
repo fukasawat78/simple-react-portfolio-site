@@ -41,7 +41,6 @@ function App() {
             <Route path="/portfolio" component={Portfolio} />
             <Route path="/about" component={About} />
             <Route path="/contact" component={ContactUs} />
-            <Route path="/documents" component={Documents} />
           </Switch>
         </AnimatePresence>
       </Pages>
