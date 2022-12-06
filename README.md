@@ -1,9 +1,9 @@
-# simple-portfolio-site
+# simple-react-portfolio-site
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## URL
-https://fukasawat78.github.io/simple-portfolio-site
+https://fukasawat78.github.io/simple-react-portfolio-site
 
 ## Available Scripts
 
